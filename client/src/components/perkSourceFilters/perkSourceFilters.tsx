@@ -10,5 +10,9 @@ type FilterOnChange = CheckboxFiltersProps<PerkSources>['onChange'];
 export const PerkSourceFilters: FC<{
   onChange: FilterOnChange;
 }> = ({ onChange }) => (
-  <CheckboxFilters options={PerkSources} onChange={onChange} />
+  <CheckboxFilters
+    options={PerkSources}
+    onChange={onChange}
+    defaults={[PerkSources.Equipment, PerkSources.Entourage]}
+  />
 );

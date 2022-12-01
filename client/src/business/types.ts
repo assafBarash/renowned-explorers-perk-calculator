@@ -1,14 +1,14 @@
 export enum PerkTrees {
-  Archaeologist,
-  Diplomat,
-  Beguiler,
-  QuickThinker,
-  Tactician,
-  Engineer,
-  Rogue,
-  Athlete,
-  Naturalist,
-  Survivalist,
+  Archaeologist = 'archaeologist',
+  Diplomat = 'diplomat',
+  Beguiler = 'beguiler',
+  QuickThinker = 'quickThinker',
+  Tactician = 'tactician',
+  Engineer = 'engineer',
+  Rogue = 'rogue',
+  Athlete = 'athlete',
+  Naturalist = 'naturalist',
+  Survivalist = 'survivalist',
 }
 
 export enum PerkSources {

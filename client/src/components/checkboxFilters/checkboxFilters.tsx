@@ -1,24 +1,25 @@
 import { FC, useEffect, useState } from 'react';
+import './checkboxFilters.css';
 
 export type CheckboxFiltersProps<T extends {}> = {
-  onChange: (items: keyof T[]) => void;
-  options: T;
+  options: any;
+  defaults?: T[];
+  onChange: (items: T[]) => void;
 };
 
 export const CheckboxFilters = <T extends {}>({
   onChange,
   options,
+  defaults = [],
 }: CheckboxFiltersProps<T>) => {
-  type OptionValue = keyof T;
-
-  const [items, setItems] = useState<OptionValue[]>([]);
+  const [items, setItems] = useState<T[]>(defaults);
 
   useEffect(() => {
-    onChange(items as unknown as keyof T[]);
+    onChange(items);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [items.length]);
 
-  const handleChange = (value: OptionValue) => (active: boolean) => {
+  const handleChange = (value: T) => (active: boolean) => {
     setItems((prevItems) =>
       active
         ? [...prevItems, value]
@@ -27,34 +28,34 @@ export const CheckboxFilters = <T extends {}>({
   };
 
   const ItemFilter: FC<{
-    name: OptionValue;
+    name: keyof T;
     onChange: (active: boolean) => void;
     active: boolean;
   }> = ({ name, onChange, active }) => {
     const nameStr = name.toString();
     return (
-      <div key={nameStr}>
-        <label>{nameStr}</label>
+      <div className={'item-container'} key={nameStr}>
         <input
           id={nameStr}
           type='checkbox'
           onChange={(e) => onChange(e.target.checked)}
           checked={active}
         />
+        <label>{nameStr}</label>
       </div>
     );
   };
 
   return (
-    <div>
-      {Object.keys(options)
-        .filter((item) => !Number(item) && item !== '0')
-        .map((item) => item as OptionValue)
-        .map((item) => (
+    <div className={'checkbox-list'}>
+      {Object.entries(options)
+        .filter(([itemName]) => !Number(itemName) && itemName !== '0')
+        .map(([itemName, itemValue], idx) => (
           <ItemFilter
-            name={item}
-            active={items.includes(item)}
-            onChange={handleChange(item)}
+            key={`${itemName as string}-${idx}`}
+            name={itemName as keyof T}
+            active={items.includes(itemValue as T)}
+            onChange={handleChange(itemValue as T)}
           />
         ))}
     </div>

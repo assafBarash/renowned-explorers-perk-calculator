@@ -1,4 +1,3 @@
-import './App.css';
 import { PerksViewer } from './components/perksViewer/perksViewer';
 
 function App() {

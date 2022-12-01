@@ -1,0 +1,7 @@
+.checkbox-list > div {
+  display: inline-block;
+}
+
+.item-container {
+  margin: 12px;
+}
