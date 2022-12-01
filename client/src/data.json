@@ -1,0 +1,1410 @@
+{
+	"Archaeologist": [
+		{
+			"perk": "Architecture",
+			"crewMembers": [
+				"Agatha (level 2)",
+				"Min-Jeong (level 4)"
+			],
+			"equipment": [
+				"The Secret Shop (requires 60 Armour)",
+				"The Secret Shop (Boots - Must be a Scout or Phailin)"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree"
+			]
+		},
+		{
+			"perk": "Excavation",
+			"crewMembers": [
+				"Emilia (level 2)",
+				"Yvonne's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"Moscow lvl 4"
+			],
+			"entourage": [
+				"San Francisco lvl 1/3"
+			],
+			"eventsStories": [
+				"Viking Landing",
+				"Unlocking Observations Research tree"
+			]
+		},
+		{
+			"perk": "History",
+			"crewMembers": [
+				"Agatha (start)",
+				"Min-Jeong (start)"
+			],
+			"equipment": [
+				"Sydney lvl 3",
+				"The Secret Shop"
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Unlocking Observations Research Tree"
+			]
+		},
+		{
+			"perk": "Legends",
+			"crewMembers": [
+				"Emilia (level 4)\nJan-Piet (level 4)\nMaria (level 2)",
+				"Min Joeng (level 2)"
+			],
+			"equipment": [
+				"Sydney lvl 3",
+				"The Secret Shop (requires 40 Armour)"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Celtic Code",
+				"Unlocking Observations Research tree",
+				"Anagogic Archipelago"
+			]
+		},
+		{
+			"perk": "Medieval",
+			"crewMembers": [
+				"Agatha (start)",
+				"Admires Agatha (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Occult",
+			"crewMembers": [
+				"Jan-Piet (level 2)\nMaria (level 4)",
+				"Kiwi (level 4)",
+				"Ivan's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Memphis Desert",
+				"Unlocking Observations Research tree",
+				"Skull of Ceruneos (pre-DLC)"
+			]
+		},
+		{
+			"perk": "Prehistory",
+			"crewMembers": [
+				"Emilia (start)",
+				"Admires Emilia (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Symbolism",
+			"crewMembers": [
+				"Agatha (level 4)\nKiwi (level 2)"
+			],
+			"equipment": [
+				"The Secret Shop (requires 80 Armour)"
+			],
+			"entourage": [
+				"Constantinople lvl 1/2/4"
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree"
+			]
+		},
+		{
+			"perk": "Royalty",
+			"crewMembers": [
+				"Min-Jeong (start)",
+				"Admires Min-Jeong (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		}
+	],
+	"Diplomat": [
+		{
+			"perk": "Customs",
+			"crewMembers": [
+				"Victor (level 4)\nCharles (level 4)\nMolly's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"New Orleans lvl 1",
+				"Sydney lvl 3"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Shangri-La"
+			]
+		},
+		{
+			"perk": "Etiquette",
+			"crewMembers": [
+				"Charles (level 2)\nHildegard (level 2)"
+			],
+			"equipment": [
+				"Sydney lvl 3",
+				"The Secret Shop (requires 80 Speech Defence)"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"The Veteran (Victor) (From offense item: Decorated Rapier)",
+				"Etiquette Course (Charles/Hildegard)",
+				"Shangri-La"
+			]
+		},
+		{
+			"perk": "Generous",
+			"crewMembers": [
+				"Kwame (start)",
+				"Hatice's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"The Secret Shop"
+			],
+			"entourage": [
+				"Constantinople lvl 1/2/4"
+			],
+			"eventsStories": [
+				"Memphis Desert",
+				"Meet the Locals (Min-Jeong/Phailin)"
+			]
+		},
+		{
+			"perk": "Honesty",
+			"crewMembers": [
+				"Kwame (start)",
+				"Admires Kwame (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Languages",
+			"crewMembers": [
+				"Hildegard (start)"
+			],
+			"equipment": [
+				"Moscow lvl 2",
+				"The Secret Shop (requires 40 Speech Defence)"
+			],
+			"entourage": [
+				"San Francisco lvl 1/3\nRio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Shangri-La"
+			]
+		},
+		{
+			"perk": "Negotiations",
+			"crewMembers": [
+				"Hildegard (level 4)\nKwame (level 2)"
+			],
+			"equipment": [
+				"New Orleans lvl 2"
+			],
+			"entourage": [
+				"San Francisco lvl 1/3"
+			],
+			"eventsStories": [
+				"Viking Landing\nGlobus Cruciger (basegame only)"
+			]
+		},
+		{
+			"perk": "Politics",
+			"crewMembers": [
+				"Victor (level 2)\nKwame (level 4)"
+			],
+			"equipment": [
+				"Muscat lvl 2",
+				"The Secret Shop (requires 60 Speech Defence)"
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Pompous",
+			"crewMembers": [
+				"Charles (start)",
+				"Admires Charles (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		}
+	],
+	"Beguiler": [
+		{
+			"perk": "Astonishing",
+			"crewMembers": [
+				"Pedrinho (level 4)\nYvonne (level 2)\nMaria (level 4)\nPhailin (level 2)"
+			],
+			"equipment": [
+				"New Orleans lvl 3\nMask Charm (Mali Masked Village with lvl 2 beguiler)"
+			],
+			"entourage": [
+				"San Francisco lvl 1/3"
+			],
+			"eventsStories": [
+				"Sailor Stories (crewmember)"
+			]
+		},
+		{
+			"perk": "Beautiful Smile",
+			"crewMembers": [
+				"Phailin (start)",
+				"\nPedrinho (level 2)\nAnna's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"Moscow lvl 4"
+			],
+			"entourage": [
+				"Constantinople lvl 1/2/4"
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Charms",
+			"crewMembers": [
+				"Yvonne (start)\nMaria (level 2)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Meet the Locals (Min-Jeong/Phailin)"
+			]
+		},
+		{
+			"perk": "Drama",
+			"crewMembers": [
+				"Yvonne (start)",
+				"Admires Yvonne (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Seduction",
+			"crewMembers": [
+				"Yvonne (level 4)\nMaria (start)",
+				"Bia's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"Moscow lvl 4"
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Freyja's Spear"
+			]
+		},
+		{
+			"perk": "Sense of Humor",
+			"crewMembers": [
+				"Harry (level 4)",
+				"Hojo's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"The Secret Shop (Boots - Must be a Scout or Phailin)"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Anagogic Archipelago (Bobo at the end)",
+				"Sailor Stories (crewmember)"
+			]
+		},
+		{
+			"perk": "Storytelling",
+			"crewMembers": [
+				"Harry (level 2)\nPhailin (level 4)"
+			],
+			"equipment": [
+				"Muscat lvl 1"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Viking Landing\nSailor Stories (Jan-Piet, crewmember)",
+				"Anagogic Archipelago (Bobo at the end)"
+			]
+		},
+		{
+			"perk": "Theatrics",
+			"crewMembers": [
+				"Maria (start)",
+				"Admires Maria (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Dancer",
+			"crewMembers": [
+				"Phailin (start)",
+				"Admires Phailin (Crew relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		}
+	],
+	"QuickThinker": [
+		{
+			"perk": "Alert",
+			"crewMembers": [
+				"Hatice (start)",
+				"Emilia's Opposite (Crew Relationships)\nKwame (level 2)",
+				"Phailin's Opposite (Crew Relationships)",
+				"Hojo (level 4)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Cunning",
+			"crewMembers": [
+				"Hatice (start)",
+				"Admires Hatice (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Escape Artist",
+			"crewMembers": [
+				"Dolores (level 2)\nKwame (level 4)"
+			],
+			"equipment": [
+				"Moscow lvl 4"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Footwork",
+			"crewMembers": [
+				"Dolores (start)",
+				"Admires Dolores (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Nimble",
+			"crewMembers": [
+				"Hatice (level 2)\nBia (level 2)",
+				"Charles' Opposite (Crew Relationships) (Unconfirmed!)"
+			],
+			"equipment": [
+				"Moscow lvl 4"
+			],
+			"entourage": [
+				"San Francisco lvl 1/3"
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Reflexes",
+			"crewMembers": [
+				"Bia (level 4)",
+				"Hojo (level 2)"
+			],
+			"equipment": [
+				"New Orleans lvl 3"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Dodgeball (Phillipe/Dolores)\nMali Mystery"
+			]
+		},
+		{
+			"perk": "Unpredictable",
+			"crewMembers": [
+				"Hatice (level 4)"
+			],
+			"equipment": [
+				"The Secret Shop"
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Celtic Code",
+				"Highlands (Likes to dance)"
+			]
+		},
+		{
+			"perk": "Wits",
+			"crewMembers": [
+				"Dolores (level 4)",
+				"Hojo (start)"
+			],
+			"equipment": [
+				"Muscat lvl 2"
+			],
+			"entourage": [
+				"Constantinople lvl 1/2/4"
+			],
+			"eventsStories": [
+				"Pumpkin King",
+				"Hojo's storycard"
+			]
+		},
+		{
+			"perk": "Focus",
+			"crewMembers": [
+				"Hojo (start)",
+				"Admires Hojo (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Ju-Jitsu",
+			"crewMembers": [
+				"Hojo (Captain's perk) - only possible to gain if Hojo is your captain"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		}
+	],
+	"Tactician": [
+		{
+			"perk": "Defense",
+			"crewMembers": [
+				"Victor (start)",
+				"Earl's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"The Secret Shop (requires 80 Grit)",
+				"The Secret Shop"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Fighter Training (Bia/Jan-Piet)\nSaxon Kings\nMemphis Desert",
+				"Shangri-la"
+			]
+		},
+		{
+			"perk": "Distinctions",
+			"crewMembers": [
+				"Victor (start)",
+				"Admires Victor (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Formations",
+			"crewMembers": [
+				"Victor (level 4)",
+				"Kiwi's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"Moscow lvl 4"
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				"Shangri-la"
+			]
+		},
+		{
+			"perk": "Guerilla",
+			"crewMembers": [
+				"Bia (start)",
+				"Yu (level 4)"
+			],
+			"equipment": [
+				"The Secret Shop"
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Memphis Desert"
+			]
+		},
+		{
+			"perk": "Military History",
+			"crewMembers": [
+				"Agatha (level 2)\nVictor (level 2)"
+			],
+			"equipment": [
+				"Muscat lvl 3",
+				"New Orleans lvl 3"
+			],
+			"entourage": [
+				"Constantinople lvl 1/2/4"
+			],
+			"eventsStories": [
+				"Shangri-la"
+			]
+		},
+		{
+			"perk": "Offense",
+			"crewMembers": [
+				"Agatha (level 4)\nBia (level 4)"
+			],
+			"equipment": [
+				"Moscow lvl 5\nNew Orleans lvl 3",
+				"The Secret Shop (requires 40 Grit)"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Shangri-la"
+			]
+		},
+		{
+			"perk": "Squad Tactics",
+			"crewMembers": [
+				"Bia (start)",
+				"Admires Bia (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Weapons Expert",
+			"crewMembers": [
+				"Bia (level 2)"
+			],
+			"equipment": [
+				"New Orleans lvl 1",
+				"The Secret Shop (requires 60 Grit)"
+			],
+			"entourage": [
+				"San Francisco lvl 1/3\nRio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Hojo's storycard"
+			]
+		},
+		{
+			"perk": "Artillery",
+			"crewMembers": [
+				"Yu (start)",
+				"Admires Yu (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		}
+	],
+	"Engineer": [
+		{
+			"perk": "Advanced Tools",
+			"crewMembers": [
+				"Anna (level 4)"
+			],
+			"equipment": [
+				"Moscow lvl 1"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Transylvania (exchange for treasure or meet Female Beguiler or Scientist requirements - or else already have Pachinotti in your crew to learn it again)",
+				"Unlocking Observations Research Tree"
+			]
+		},
+		{
+			"perk": "Automata",
+			"crewMembers": [
+				"Phillipe (level 4)",
+				"Dolores' Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"Sydney lvl 3"
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree"
+			]
+		},
+		{
+			"perk": "Clockwork",
+			"crewMembers": [
+				"Phillipe (start)",
+				"Admires Phillipe (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Combustion",
+			"crewMembers": [
+				"Earl (level 2)\nHatice (level 4)",
+				"Yu (start)\nPhailin (level 4)"
+			],
+			"equipment": [
+				"Moscow lvl 5"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree",
+				"Will-o'-the-Wisp"
+			]
+		},
+		{
+			"perk": "Explosives",
+			"crewMembers": [
+				"Earl (start)",
+				"Admires Earl (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Piloting",
+			"crewMembers": [
+				"Phillipe (level 2)\nHatice (level 2)",
+				"Victor's Opposite (Crew Relationships)",
+				"Yu (Level 4)"
+			],
+			"equipment": [
+				"Sydney lvl 3"
+			],
+			"entourage": [
+				"Constantinople lvl 1/2/4"
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree"
+			]
+		},
+		{
+			"perk": "Steam Engines",
+			"crewMembers": [
+				"Earl (level 4)"
+			],
+			"equipment": [
+				"The Secret Shop"
+			],
+			"entourage": [
+				"San Francisco lvl 1/3\nRio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree",
+				"Saxon Kings"
+			]
+		},
+		{
+			"perk": "Tinkerer",
+			"crewMembers": [
+				"Anna (level 2)\nEarl (start)",
+				"Phailin (level 2)",
+				"Yu (Level 2)"
+			],
+			"equipment": [
+				"Sydney lvl 3"
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree",
+				"Memphis Desert"
+			]
+		}
+	],
+	"Rogue": [
+		{
+			"perk": "Ambush",
+			"crewMembers": [
+				"Molly (start)",
+				"Admires Molly (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Bluffing",
+			"crewMembers": [
+				"Harry (level 2)\nMolly (level 4)"
+			],
+			"equipment": [
+				"New Orleans lvl 2"
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Merciless",
+			"crewMembers": [
+				"Phillipe (level 4)\nMolly (start)"
+			],
+			"equipment": [
+				"The Secret Shop (requires 60 Speech)"
+			],
+			"entourage": [
+				"Constantinople lvl 1/2/4"
+			],
+			"eventsStories": [
+				"Memphis Desert",
+				"Lost Island (with Emilia)"
+			]
+		},
+		{
+			"perk": "Mischief",
+			"crewMembers": [
+				"Harry (start)\nYvonne (level 2)"
+			],
+			"equipment": [
+				"The Secret Shop",
+				"The Secret Shop (Boots - Must be a Scout or Phailin)"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Sneaking",
+			"crewMembers": [
+				"Phillipe (start)",
+				"Jan-Piet's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"Sydney lvl 2",
+				"The Secret Shop (requires 30 Speech)"
+			],
+			"entourage": [
+				"San Francisco lvl 1/3"
+			],
+			"eventsStories": [
+				"Mali Mystery",
+				"Phailin's Storycard (Self)",
+				"Shangri-la"
+			]
+		},
+		{
+			"perk": "Stealing",
+			"crewMembers": [
+				"Phillipe (level 2)\nHarry (level 4)",
+				"Pedrinho's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"The Secret Shop (requires 45 Speech)"
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Shangri-la"
+			]
+		},
+		{
+			"perk": "Subterfuge",
+			"crewMembers": [
+				"Harry (start)",
+				"Admires Harry (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Surprise",
+			"crewMembers": [
+				"Molly (level 2)\nYvonne (level 4)"
+			],
+			"equipment": [
+				"Muscat lvl 2"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Shangri-la",
+				"Phailin's Storycard (Self)"
+			]
+		}
+	],
+	"Athlete": [
+		{
+			"perk": "Endure Hardship",
+			"crewMembers": [
+				"Ivan (start)",
+				"Admires Ivan (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Powerhouse",
+			"crewMembers": [
+				"Ivan (level 4)\nJan-Piet (level 4)",
+				"Agatha's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"The Secret Shop"
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Sailor",
+			"crewMembers": [
+				"Jan-Piet (start)",
+				"Admires Jan-Piet (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Smashing",
+			"crewMembers": [
+				"Ivan (level 2)\nJan-Piet (start)"
+			],
+			"equipment": [
+				"Sydney lvl 3"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Dolores' Storycard",
+				"Memphis Desert"
+			]
+		},
+		{
+			"perk": "Stamina",
+			"crewMembers": [
+				"Dolores (level 4)\nJan-Piet (level 2)"
+			],
+			"equipment": [
+				"Moscow lvl 2",
+				"Sydney lvl 3"
+			],
+			"entourage": [
+				"San Francisco lvl 1/3"
+			],
+			"eventsStories": [
+				"Molly's Storycard"
+			]
+		},
+		{
+			"perk": "Tenacious",
+			"crewMembers": [
+				"Molly (level 2)\nDolores (level 2)"
+			],
+			"equipment": [
+				"New Orleans lvl 2"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Memphis Desert",
+				"Anagogic Archipelago",
+				"Fighter Training (Bia/Jan-Piet)"
+			]
+		},
+		{
+			"perk": "Tough",
+			"crewMembers": [
+				"Molly (level 4)\nIvan (start)",
+				"Kwame's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"New Orleans lvl 1"
+			],
+			"entourage": [
+				"San Francisco lvl 1/3\nRio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Highlands"
+			]
+		},
+		{
+			"perk": "Wrestling",
+			"crewMembers": [
+				"Dolores (start)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				"Constantinople lvl 1/2/4"
+			],
+			"eventsStories": [
+				"Dolores' Storycard"
+			]
+		}
+	],
+	"Naturalist": [
+		{
+			"perk": "Astronomy",
+			"crewMembers": [
+				"Hildegard (level 4)",
+				"Maria's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"Muscat lvl 3"
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree",
+				"Memphis Desert",
+				"Shangri-la"
+			]
+		},
+		{
+			"perk": "Biology",
+			"crewMembers": [
+				"Emilia (start)\nIvan (level 2)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree",
+				"Celtic Code"
+			]
+		},
+		{
+			"perk": "Chemistry",
+			"crewMembers": [
+				"Anna (level 4)"
+			],
+			"equipment": [
+				"Moscow lvl 5"
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree",
+				"Shangri-la"
+			]
+		},
+		{
+			"perk": "Classical Physics",
+			"crewMembers": [
+				"Emilia (level 2)\nAnna (level 2)\nHildegard (level 2)",
+				"Harry's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"Sydney lvl 1"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree",
+				"Shangri-la"
+			]
+		},
+		{
+			"perk": "Electromagnetics",
+			"crewMembers": [
+				"Emilia (level 4)\nAnna (start)",
+				"Yu's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"New Orleans lvl 1",
+				"The Secret Shop"
+			],
+			"entourage": [
+				"Constantinople lvl 1/2/4"
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree",
+				"Hojo's Storycard"
+			]
+		},
+		{
+			"perk": "Geology",
+			"crewMembers": [
+				"Ivan (level 4)"
+			],
+			"equipment": [
+				"New Orleans lvl 2"
+			],
+			"entourage": [
+				"San Francisco lvl 1/3\nRio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Unlocking Observations Research tree"
+			]
+		},
+		{
+			"perk": "Mathematics",
+			"crewMembers": [
+				"Anna (start)",
+				"Admires Anna (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Optics",
+			"crewMembers": [
+				"Hildegard (start)",
+				"Admires Hildegard (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		}
+	],
+	"Survivalist": [
+		{
+			"perk": "Camping",
+			"crewMembers": [
+				"Kiwi (level 4)",
+				"Phillipe's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Mali Mystery",
+				"Eye of the Tiger (Pedrinho/Charles)"
+			]
+		},
+		{
+			"perk": "Cooking",
+			"crewMembers": [
+				"Pedrinho (level 4)",
+				"\nMin-Jeong's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"New Orleans lvl 1"
+			],
+			"entourage": [
+				"San Francisco lvl 1/3"
+			],
+			"eventsStories": [
+				"Roche's Lost Treasure",
+				"Eye of the Tiger (Pedrinho/Charles)",
+				"Shangri-la"
+			]
+		},
+		{
+			"perk": "Hunting",
+			"crewMembers": [
+				"Charles (start)",
+				"Hildegard's Opposite (Crew Relationships)"
+			],
+			"equipment": [
+				"Moscow lvl 5"
+			],
+			"entourage": [
+				"Constantinople lvl 1/2/4"
+			],
+			"eventsStories": [
+				"Eye of the Tiger (Pedrinho/Charles)"
+			]
+		},
+		{
+			"perk": "Navigation",
+			"crewMembers": [
+				"Earl (level 2)\nKiwi (start)\nPedrinho (level 2)"
+			],
+			"equipment": [
+				"Moscow lvl 1",
+				"Sydney lvl 3"
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Eye of the Tiger (Pedrinho/Charles)"
+			]
+		},
+		{
+			"perk": "Spotting",
+			"crewMembers": [
+				"Earl (level 4)\nPedrinho (start)\nCharles (level 4)"
+			],
+			"equipment": [
+				"Sydney lvl 1",
+				"New Orleans lvl 2"
+			],
+			"entourage": [
+				"Stockholm lvl 1/2/3"
+			],
+			"eventsStories": [
+				"Mali Mystery",
+				"Anagogic Archipelago",
+				"Eye of the Tiger (Pedrinho/Charles)",
+				"Shangri-la"
+			]
+		},
+		{
+			"perk": "Tracking",
+			"crewMembers": [
+				"Kiwi (level 2)\nCharles (level 2)"
+			],
+			"equipment": [
+				"The Secret Shop"
+			],
+			"entourage": [
+				"Rio de Janeiro lvl 1/3/4"
+			],
+			"eventsStories": [
+				"Shangri-la",
+				"Eye of the Tiger (Pedrinho/Charles)"
+			]
+		},
+		{
+			"perk": "Trappings",
+			"crewMembers": [
+				"Pedrinho (start)",
+				"Admires Pedrinho (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		},
+		{
+			"perk": "Wilderness Lore",
+			"crewMembers": [
+				"Kiwi (start)",
+				"Admires Kiwi (Crew Relationships)"
+			],
+			"equipment": [
+				""
+			],
+			"entourage": [
+				""
+			],
+			"eventsStories": [
+				""
+			]
+		}
+	]
+}
